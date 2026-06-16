@@ -10,12 +10,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/deepasripushparaj-commits/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/deepasripushparaj-commits/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 ## Sorting
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/deepasripushparaj-commits/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/deepasripushparaj-commits/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 ## Two Pointers
 |  |
 | ------- |
 | [0283-move-zeroes](https://github.com/deepasripushparaj-commits/LeetCode-Solutions/tree/master/0283-move-zeroes) |
+## String
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/deepasripushparaj-commits/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
