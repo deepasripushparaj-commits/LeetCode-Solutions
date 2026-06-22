@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0217-contains-duplicate](https://github.com/deepasripushparaj-commits/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/deepasripushparaj-commits/LeetCode-Solutions/tree/master/0283-move-zeroes) |
+| [0704-binary-search](https://github.com/deepasripushparaj-commits/LeetCode-Solutions/tree/master/0704-binary-search) |
 ## Hash Table
 |  |
 | ------- |
@@ -29,4 +30,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/deepasripushparaj-commits/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
+## Binary Search
+|  |
+| ------- |
+| [0704-binary-search](https://github.com/deepasripushparaj-commits/LeetCode-Solutions/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
